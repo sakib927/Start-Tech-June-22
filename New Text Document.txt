@@ -1,0 +1,10 @@
+1) Neoteric Trends in C by CESA (Indus University)
+2) Agile Methodology focusing on Scrum Framwork And hands on Jira workshop By GUJCOST
+3) Introduction to the Internet of Things and Embedded Systems By Coursera
+4) Fundamentals of Digital Marketing By Google Digital Garage
+5) IP Awareness/Training by NIPAM
+6) Learn Python Programing Masterclass by Udemy
+7) Computer vison and ml/dl in Remote Sensing by Indus University
+8) Cyber Security Arms Race by CESA (Indus University)
+9) Runtime Terror under Tech Tycoon By CESA (Indus University)
+ 
